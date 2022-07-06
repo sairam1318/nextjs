@@ -1,0 +1,12 @@
+1. getStaticProps(): 
+    _something like an use effect in react. on mount api calls.
+    _for static pages.
+    _ex: branche.js but not [branch].js
+
+2. getStaticPaths():
+    _
+
+
+3. getServerSideProps():
+    _runs only on server side.
+    
